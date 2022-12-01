@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form {
+    width: 30%;
+    height: 80vh;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #284b63;
+}
+.input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    border: none;
+}
+.gender {
+    color: #ffffff;
+    margin: 20px 20px;
+    font-size: 25px;
+}
+.submit {
+    margin: 20px 10px;
+    width: 120px;
+    height: 40px;
+    font-size: 22px;
+    border-radius: 16px;
+    border: none;
+    padding: 10px;
+}
+.submit:hover {
+    cursor: pointer;
+    background-color: aqua;
+}
